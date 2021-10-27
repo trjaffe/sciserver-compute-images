@@ -14,4 +14,4 @@ specutils
 aplpy
 pygments==2.6.1
 pywwt
-ps2pdf
+ghostscript
